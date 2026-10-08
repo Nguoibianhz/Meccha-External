@@ -1,4 +1,4 @@
-# 🦎 Meccha-External (V3.6)
+# 🦎 Meccha Chameleon-External (V3.6)
 
 > **MecchaChameleon External Game Overlay & Visual Assistant**  
 > **Tác giả / Author:** **Nguyễn Mạnh Hiếu**  
