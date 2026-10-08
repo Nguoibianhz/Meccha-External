@@ -2,6 +2,23 @@ SOURCE CODE & SOFTWARE LICENSE AGREEMENT
 
 Bản quyền (c) 2026 Nguyễn Mạnh Hiếu. Toàn quyền bảo lưu (All rights reserved).
 
+Please carefully read the following terms and conditions before using, copying, modifying, distributing, or building upon this source code (the "Software"):
+
+1. NON-COMMERCIAL USE:
+This source code is provided for educational, research, and personal technical reference purposes. You are permitted to view, study, and compile it for personal, non-commercial use.
+
+2. NO COMMERCIAL EXPLOITATION:
+Any form of sale, rental, commercialization, monetization, or direct or indirect resale of the source code, modified versions thereof, or binaries/executables compiled from this source code is strictly prohibited without the EXPRESS WRITTEN CONSENT OF THE AUTHOR (Nguyễn Mạnh Hiếu).
+
+3. CONDITIONS FOR REMAKING / DISTRIBUTION / REUSE (ATTRIBUTION REQUIRED):
+Any individual or organization using all or part of this source code to modify, further develop (remake), reuse, or integrate it into another project MUST comply with the following:
+a. Retain this copyright notice and clearly attribute the original Author ("Nguyễn Mạnh Hiếu"), including a link to the original repository, in all documentation, README files, and the application interface (if applicable). 
+b. Do not alter or remove the original author attribution information. 
+c. For large-scale public distribution projects, prior contact with and approval from the author are required.
+
+4. DISCLAIMER OF WARRANTY:
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT ANY WARRANTY, EITHER EXPRESS OR IMPLIED. THE AUTHOR SHALL NOT BE HELD LIABLE FOR ANY DAMAGES, CLAIMS, OR LIABILITIES ARISING FROM THE USE OR INABILITY TO USE THIS SOFTWARE.
+
 Vui lòng đọc kỹ các điều khoản và điều kiện sau đây trước khi sử dụng, sao chép, sửa đổi, phân phối hoặc phát triển dựa trên mã nguồn này ("Phần Mềm"):
 
 1. QUYỀN SỬ DỤNG PHI THƯƠNG MẠI (NON-COMMERCIAL USE):
@@ -18,6 +35,7 @@ Vui lòng đọc kỹ các điều khoản và điều kiện sau đây trước
 
 4. TỪ CHỐI BẢO HÀNH (DISCLAIMER OF WARRANTY):
    PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG" (AS IS), KHÔNG CÓ BẤT KỲ SỰ BẢO ĐẢM NÀO, DÙ RÕ RÀNG HAY NGỤ Ý. TÁC GIẢ SẼ KHÔNG CHỊU TRÁCH NHIỆM PHÁP LÝ CHO BẤT KỲ THIỆT HẠI, KHIẾU NẠI HOẶC TRÁCH NHIỆM NÀO PHÁT SINH TỪ VIỆC SỬ DỤNG HOẶC KHÔNG THỂ SỬ DỤNG PHẦN MỀM NÀY.
+
 
 --------------------------------------------------------------------------------
 Author: Nguyễn Mạnh Hiếu
