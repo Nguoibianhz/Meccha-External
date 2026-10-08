@@ -688,10 +688,6 @@ void Menu::render() {
 			ImGui::SameLine(cardW - 40.0f);
 			static ImVec4 fovColor = ImVec4(1.0f, 1.0f, 1.0f, 0.8f);
 			PaletteIconButton("##fov_pal", &fovColor);
-
-			ImGui::SetCursorPosY(ImGui::GetCursorPosY() + 6.0f);
-			ImGui::SetCursorPosX(16.0f);
-			CustomCheckbox("Chinese Hat", &globals.settings.esp.chineseHat);
 		}
 		EndCard();
 	}

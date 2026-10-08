@@ -64,7 +64,7 @@ Meccha-External/
    - **2D Box ESP:** Tự động fallback kích thước, tính toán bounding box chính xác.
    - **Skeleton ESP:** Vẽ khung xương nhân vật.
    - **Snaplines (Tracers):** Hỗ trợ 3 chế độ xuất phát: `Bot` (chân), `Center` (tâm), `Top` (đỉnh).
-   - **Minimap Radar, FoV Circle & Chinese Hat.**
+   - **Minimap Radar & FoV Circle.**
 
 4. **Phím tắt điều khiển:**
    - Phím mở/tắt Menu: **`RIGHT SHIFT`** (Shift phải).

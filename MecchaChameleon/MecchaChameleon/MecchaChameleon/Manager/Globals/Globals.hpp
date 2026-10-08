@@ -20,7 +20,6 @@ struct EspSettings {
     bool skeleton = false;
     ImVec4 defaultSkeletonColor = Custom::ColorFromHex(0xFFFFFF);
     ImVec4 enemySkeletonColor = Custom::ColorFromHex(0xFFFFFF);
-    bool chineseHat = false;
     bool name = false;
     bool distance = false;
     bool snaplines = false;
