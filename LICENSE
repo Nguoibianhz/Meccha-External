@@ -1,0 +1,25 @@
+SOURCE CODE & SOFTWARE LICENSE AGREEMENT
+
+Bản quyền (c) 2026 Nguyễn Mạnh Hiếu. Toàn quyền bảo lưu (All rights reserved).
+
+Vui lòng đọc kỹ các điều khoản và điều kiện sau đây trước khi sử dụng, sao chép, sửa đổi, phân phối hoặc phát triển dựa trên mã nguồn này ("Phần Mềm"):
+
+1. QUYỀN SỬ DỤNG PHI THƯƠNG MẠI (NON-COMMERCIAL USE):
+   Mã nguồn này được cung cấp với mục đích học tập, nghiên cứu và tham khảo kỹ thuật cá nhân. Bạn được phép xem, nghiên cứu và biên dịch cho mục đích cá nhân phi thương mại.
+
+2. NGHIÊM CẤM THƯƠNG MẠI HÓA (NO COMMERCIAL EXPLOITATION):
+   Nghiêm cấm tuyệt đối mọi hành vi buôn bán, cho thuê, thương mại hóa, kiếm tiền (monetize), bán lại trực tiếp hoặc gián tiếp mã nguồn, các phần sửa đổi của mã nguồn, hoặc các tệp tin thực thi (binary/executable) được biên dịch từ mã nguồn này dưới bất kỳ hình thức nào khi KHÔNG ĐƯỢC SỰ ĐỒNG Ý BẰNG VĂN BẢN TRỰC TIẾP TỪ TÁC GIẢ (Nguyễn Mạnh Hiếu).
+
+3. ĐIỀU KIỆN REMAKE / PHÂN PHỐI / SỬ DỤNG LẠI (ATTRIBUTION REQUIRED):
+   Bất kỳ cá nhân hoặc tổ chức nào sử dụng toàn bộ hoặc một phần mã nguồn này để chỉnh sửa, phát triển tiếp (remake), tái sử dụng hoặc tích hợp vào dự án khác đều BẮT BUỘC phải tuân thủ:
+   a. Giữ nguyên thông báo bản quyền này và ghi rõ tên Tác giả gốc: "Nguyễn Mạnh Hiếu" cùng đường dẫn đến repository gốc trong toàn bộ tài liệu, README, và giao diện ứng dụng (nếu có).
+   b. Không được phép tự ý thay đổi hoặc loại bỏ thông tin ghi nhận tác giả gốc.
+   c. Đối với các dự án phân phối công khai quy mô lớn, phải có sự liên hệ và chấp thuận trước từ tác giả.
+
+4. TỪ CHỐI BẢO HÀNH (DISCLAIMER OF WARRANTY):
+   PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG" (AS IS), KHÔNG CÓ BẤT KỲ SỰ BẢO ĐẢM NÀO, DÙ RÕ RÀNG HAY NGỤ Ý. TÁC GIẢ SẼ KHÔNG CHỊU TRÁCH NHIỆM PHÁP LÝ CHO BẤT KỲ THIỆT HẠI, KHIẾU NẠI HOẶC TRÁCH NHIỆM NÀO PHÁT SINH TỪ VIỆC SỬ DỤNG HOẶC KHÔNG THỂ SỬ DỤNG PHẦN MỀM NÀY.
+
+--------------------------------------------------------------------------------
+Author: Nguyễn Mạnh Hiếu
+Project: Meccha-External
+Year: 2026
